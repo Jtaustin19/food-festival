@@ -14,14 +14,10 @@
   "license": "ISC",
   "devDependencies": {
     "file-loader": "^6.2.0",
-    "webpack": "^5.35.0",
-<<<<<<< HEAD
+    "webpack": "^5.34.0",
+    "webpack-bundle-analyzer": "^4.4.1",
     "webpack-cli": "^4.6.0",
     "webpack-dev-server": "^3.11.2"
-=======
-    "webpack-bundle-analyzer": "^4.4.1",
-    "webpack-cli": "^4.6.0"
->>>>>>> eae7cfcb83eab312496a589ac757bc2f2aace275
   },
   "dependencies": {
     "bootstrap": "^4.6.0",
