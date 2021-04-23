@@ -13,12 +13,19 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "file-loader": "^6.2.0",
     "webpack": "^5.35.0",
+<<<<<<< HEAD
     "webpack-cli": "^4.6.0",
     "webpack-dev-server": "^3.11.2"
+=======
+    "webpack-bundle-analyzer": "^4.4.1",
+    "webpack-cli": "^4.6.0"
+>>>>>>> eae7cfcb83eab312496a589ac757bc2f2aace275
   },
   "dependencies": {
     "bootstrap": "^4.6.0",
+    "image-webpack-loader": "^7.0.1",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1"
   }
